@@ -9,7 +9,7 @@ namespace ClassesPractice
         {
             var magic = new Team();
             magic.City = "Orlando";
-            magic.Colors = new string [] { "Blue", "Black" };
+            magic.Colors = new string [] { "Blue", "Red" };
             magic.Name = "Magic";
             magic.TeamSize = 12;
             magic.Mascot = "Stuff";
